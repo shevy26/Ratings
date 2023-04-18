@@ -14,7 +14,7 @@ void main()
         {
             if(ratings==i)
             {
-             printf(" %s ",input);    
+             printf(" %c ",input);    
             }
             else{
                 printf(" * ");
