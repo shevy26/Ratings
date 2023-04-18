@@ -2,7 +2,7 @@
 // in this Y represents your ratings
 void main()
 {
-    char input[1]="Y";
+    char input="Y";
     int ratings;
     printf("Enter your ratings (1-5) :\n");
     scanf("%d",&ratings);
